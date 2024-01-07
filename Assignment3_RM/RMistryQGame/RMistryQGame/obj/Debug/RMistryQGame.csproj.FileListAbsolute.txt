@@ -1,0 +1,69 @@
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe.config
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Properties.Resources.resources
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Design_Form.resources
+C:\Users\mistr\Desktop\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.QGameControlPanel.resources
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe.config
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Design_Form.resources
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.QGameControlPanel.resources
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Properties.Resources.resources
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe.config
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Design_Form.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.QGameControlPanel.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Properties.Resources.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment2\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe.config
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Design_Form.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.QGameControlPanel.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Properties.Resources.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment2_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.PlayForm.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe.config
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Design_Form.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.PlayForm.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.QGameControlPanel.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Properties.Resources.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM_BK - Copy\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe.config
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\bin\Debug\RMistryQGame.pdb
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Design_Form.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.PlayForm.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.QGameControlPanel.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.Properties.Resources.resources
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.GenerateResource.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.exe
+C:\Users\mistr\Desktop\Sem 3\Game-Programmimg\Assignment\Assignment3\Assignment3_RM\RMistryQGame\RMistryQGame\obj\Debug\RMistryQGame.pdb
